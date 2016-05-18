@@ -33,7 +33,6 @@ import android.widget.Toast;
 
 import static zh.wang.android.yweathergetter.YahooWeather.*;
 
-//added by Lalit Sharma
 public class MainActivity extends Activity implements YahooWeatherInfoListener,
     YahooWeatherExceptionListener {
 	
