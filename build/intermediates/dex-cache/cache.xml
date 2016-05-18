@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sis248\Downloads\YWeatherGetter4a-master\sample_app\sample_app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="082388e44074dda67119a8fcd2b595dc47df479b">
+        <dex dex="C:\Users\sis248\Downloads\YWeatherGetter4a-master\sample_app\sample_app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fc837e686e1c09b66abc442ed6bca6b24d2c8104\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sis248\Downloads\YWeatherGetter4a-master\sample_app\sample_app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="199c5e57f5eb82c80263935736fe845485f19c8f">
+        <dex dex="C:\Users\sis248\Downloads\YWeatherGetter4a-master\sample_app\sample_app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b95e6741665c6829cad0990183cb72019dde30d8\classes.dex" />
+    </item>
+
+</items>
