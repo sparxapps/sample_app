@@ -2,6 +2,7 @@ package zh.wang.android.yweathergetter;
 
 class AsciiUtils {
     //cmd demo
+    //cmd 2
 	private static final String PLAIN_ASCII =
 		      "AaEeIiOoUu"    // grave
 		    + "AaEeIiOoUuYy"  // acute
