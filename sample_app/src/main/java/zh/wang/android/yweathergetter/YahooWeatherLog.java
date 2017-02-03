@@ -3,8 +3,8 @@ package zh.wang.android.yweathergetter;
 import android.util.Log;
 
 class YahooWeatherLog {
-	
-	public static final String TAG = "YWeatherGetter4a";
+
+	private static final String TAG = "YahooWeatherLog11";
 	public static boolean isDebuggable = true;
 	
 	public static void setDebuggable(final boolean isDebuggable) {

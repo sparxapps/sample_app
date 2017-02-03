@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\sis248\\Downloads\\YWeatherGetter4a-master\\sample_app\\sample_app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "outputFile": "D:\\Workspace_Android_Studio\\sample_app\\sample_app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 107
                 },
                 "from": {
-                    "file": "C:\\Users\\sis248\\Downloads\\YWeatherGetter4a-master\\sample_app\\sample_app\\src\\androidTest\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 56,
-                        "endOffset": 108
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\usefuldemos\\sample_app\\sample_app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 56,
-                    "endOffset": 107
-                },
-                "from": {
-                    "file": "D:\\usefuldemos\\sample_app\\sample_app\\src\\androidTest\\res\\values\\strings.xml",
+                    "file": "D:\\Workspace_Android_Studio\\sample_app\\sample_app\\src\\androidTest\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
